@@ -1,4 +1,4 @@
-ファイルの戦闘にアンダーラインを追加するだけ。
+ファイルの先頭にアンダーラインを追加するだけ。
 
 @echo off
 setlocal enabledelayedexpansion
