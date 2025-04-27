@@ -1,4 +1,9 @@
 ファイルの先頭にアンダーラインを追加するだけ。
+"filename"
+↓
+"_filename"
+
+／／／／／／
 
 @echo off
 setlocal enabledelayedexpansion
